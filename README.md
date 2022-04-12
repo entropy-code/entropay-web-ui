@@ -5,3 +5,5 @@ Run with
 ```
 yarn run nx serve app
 ```
+
+Port: 3000
